@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daryberto,I'm from Mexico. I,m a mechatronic engineer 
-- 👀 I’m interested in becoming a front-end developer. I just started my journey :)
+- 👀  I just started my journey to become a web developer :)
 - 🌱 I’m currently learning GIT, JS ,Java, HTLML and CSS...
 - 💞️ Any help will be much aprecciated
 - 📫 dary.cc@gmail.com
