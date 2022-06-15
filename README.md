@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Daryberto,I'm from Mexico. I'm a mechatronic engineer 
 - 👀  I just started my journey to become a web developer :)
-- 🌱 I’m currently learning GIT, JS ,Java,SQL, HTLML, CSS, Django Framework
+- 🌱 I’m currently learning  Shell Scripting, GIT, JS ,Java,SQL, HTLML, CSS, Django Framework
 - 📫 dary.cc@gmail.com
 
 <!---
